@@ -4,7 +4,7 @@ dominate==2.4.0
 Flask==1.1.1
 Flask-Bootstrap==3.3.7.1
 Flask-Caching==1.7.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 itsdangerous==1.1.0
 Jinja2==2.10.1
